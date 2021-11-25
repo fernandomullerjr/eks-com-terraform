@@ -5,6 +5,21 @@ Como criar um cluster EKS com Terraform
 Fonte:
 https://mateusmuller.me/posts/como-criar-cluster-eks-com-terraform/
 
+
+## Executando o nosso projeto
+
+$ terraform init
+$ terraform plan
+$ terraform apply
+
+
+
+## Destruindo o nosso projeto
+
+$ terraform destroy
+
+
+
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
